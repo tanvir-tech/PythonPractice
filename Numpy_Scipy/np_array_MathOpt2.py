@@ -8,6 +8,6 @@ print(a*b)
 print(a/b)
 print(a%b)
 
-
+print("Log of matrix =",np.log10(b))
 
 
