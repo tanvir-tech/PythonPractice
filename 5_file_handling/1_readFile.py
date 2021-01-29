@@ -7,7 +7,6 @@ try:
     # print(file_obj.readline(3))            # single line 3
     # print(file_obj.readlines())            # single lines seperately
 
-
 except:
     print("File not found !")
 finally:

@@ -1,7 +1,10 @@
 Hi Tanvir Hello!
- Welcome to demofile.txt.
+Welcome to demofile.txt.
 This file is for testing purposes.
- Good Luck!
-
-
- APPEND !!!APPEND !!!APPEND !!!
+Good Luck!
+APPEND!
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
